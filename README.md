@@ -1,2 +1,2 @@
 # neblua
-Open source knowledge system 
+Open source knowledge and learning system 
